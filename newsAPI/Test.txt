@@ -1,2 +1,3 @@
 Hi.
 Test01 : is it changed? This line is for just checking.
+TEst02 : What if I don't marge this with previous one.
